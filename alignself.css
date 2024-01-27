@@ -6,7 +6,6 @@
 .container {
   display: flex;
   background: rgb(3, 125, 1);
-  --width: 800px;
   height: 800px;
 }
 .item {
